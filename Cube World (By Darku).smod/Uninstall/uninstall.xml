@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="iso-8859-1"?><SUF70UninstallData>
+<DataFilePath>C:\Users\Darku\Desktop\Cube World - July 23, 2013\Uninstall\uninstall.dat</DataFilePath>
+<CPRegKey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Cube World - July 23, 2013July 23, 2013</CPRegKey>
+<EXELocation>C:\Users\Darku\Desktop\Cube World - July 23, 2013\uninstall.exe</EXELocation>
+<AppShortcutFolderPath>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Cube World - July 23, 2013\1-click run\Cube World - July 23, 2013</AppShortcutFolderPath>
+<UninstallReverseOrder>1</UninstallReverseOrder>
+<UninstallFiles>
+<File>
+<Filename>C:\Program Files (x86)\1-click run\More Portable Programs.url</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\1-click run\Internet-url.ico</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\Cube.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\CubeLauncher.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\cursor.plx</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\data1.db</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\data2.db</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\data3.db</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\data4.db</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\db.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\freeimage-license.txt</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\FreeImage.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\freetype-license.txt</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\gui.plx</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\help.plx</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\logo.bmp</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\msvcp110.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\msvcr110.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\quest-tag.plx</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\resource1.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\resource2.dat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\Server.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\start.plx</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\vccorlib110.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\XAudio2_8.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\zlib1.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+</UninstallFiles>
+<UninstallShortcuts>
+<Filename>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Portable Programs\More Portable Programs.lnk</Filename>
+<Filename>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Cube World - July 23, 2013\1-click run\Cube World - July 23, 2013\Cube World.lnk</Filename>
+<Filename>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\1-click run\Cube World - July 23, 2013\Cube World.lnk</Filename>
+</UninstallShortcuts>
+<UninstallSupportFiles>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\Uninstall\IRIMG1.JPG</Filename>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\Uninstall\IRIMG2.JPG</Filename>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\Uninstall\IRIMG3.JPG</Filename>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\Uninstall\IRIMG4.JPG</Filename>
+<Filename>C:\Users\Darku\Desktop\Cube World - July 23, 2013\Uninstall\IRIMG5.JPG</Filename>
+</UninstallSupportFiles>
+<UninstallFolders>
+<FolderPath>C:\Users\Darku\Desktop\Cube World - July 23, 2013\Uninstall</FolderPath>
+<FolderPath>C:\Program Files (x86)\1-click run</FolderPath>
+<FolderPath>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Cube World - July 23, 2013</FolderPath>
+<FolderPath>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Cube World - July 23, 2013\1-click run</FolderPath>
+<FolderPath>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Cube World - July 23, 2013\1-click run\Cube World - July 23, 2013</FolderPath>
+<FolderPath>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Portable Programs</FolderPath>
+<FolderPath>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\1-click run</FolderPath>
+<FolderPath>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\1-click run\Cube World - July 23, 2013</FolderPath>
+</UninstallFolders>
+<SessionVars>
+<Var>
+<Name>%ProductName%</Name>
+<Value>Cube World - July 23, 2013</Value>
+</Var>
+<Var>
+<Name>%CompanyName%</Name>
+<Value>Friends in War</Value>
+</Var>
+<Var>
+<Name>%ProductVer%</Name>
+<Value>July 23, 2013</Value>
+</Var>
+<Var>
+<Name>%Copyright%</Name>
+<Value>Copyright © 2011 %CompanyName%</Value>
+</Var>
+<Var>
+<Name>%CompanyURL%</Name>
+<Value>http://www.friendsinwar.com</Value>
+</Var>
+<Var>
+<Name>%WindowTitle%</Name>
+<Value>%ProductName% Extractor</Value>
+</Var>
+<Var>
+<Name>%WindowTitleUninstall%</Name>
+<Value>%ProductName% Uninstaller</Value>
+</Var>
+<Var>
+<Name>%AppFolder%</Name>
+<Value>C:\Users\Darku\Desktop\Cube World - July 23, 2013</Value>
+</Var>
+<Var>
+<Name>%AppShortcutFolderName%</Name>
+<Value>%ProductName%\1-click run\%ProductName%</Value>
+</Var>
+<Var>
+<Name>%fiwfolder%</Name>
+<Value>%ProgramFilesFolder%\1-click run</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolder%</Name>
+<Value>C:\Users\Darku\AppData\Roaming</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolderCommon%</Name>
+<Value>C:\ProgramData</Value>
+</Var>
+<Var>
+<Name>%DesktopFolder%</Name>
+<Value>C:\Users\Darku\Desktop</Value>
+</Var>
+<Var>
+<Name>%DesktopFolderCommon%</Name>
+<Value>C:\Users\Public\Desktop</Value>
+</Var>
+<Var>
+<Name>%FontsFolder%</Name>
+<Value>C:\Windows\Fonts</Value>
+</Var>
+<Var>
+<Name>%MyDocumentsFolder%</Name>
+<Value>C:\Users\Darku\Documents</Value>
+</Var>
+<Var>
+<Name>%StartFolder%</Name>
+<Value>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolder%</Name>
+<Value>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartupFolder%</Name>
+<Value>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%StartupFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp</Value>
+</Var>
+<Var>
+<Name>%CommonDocumentsFolder%</Name>
+<Value>C:\Users\Public\Documents</Value>
+</Var>
+<Var>
+<Name>%MyMusicFolder%</Name>
+<Value>C:\Users\Darku\Music</Value>
+</Var>
+<Var>
+<Name>%MyMusicFolderCommon%</Name>
+<Value>C:\Users\Public\Music</Value>
+</Var>
+<Var>
+<Name>%MyPicturesFolder%</Name>
+<Value>C:\Users\Darku\Pictures</Value>
+</Var>
+<Var>
+<Name>%MyPicturesFolderCommon%</Name>
+<Value>C:\Users\Public\Pictures</Value>
+</Var>
+<Var>
+<Name>%MyVideosFolder%</Name>
+<Value>C:\Users\Darku\Videos</Value>
+</Var>
+<Var>
+<Name>%MyVideosFolderCommon%</Name>
+<Value>C:\Users\Public\Videos</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder64%</Name>
+<Value>C:\Program Files</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder64%</Name>
+<Value>C:\Program Files\Common Files</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder%</Name>
+<Value>C:\Program Files (x86)</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder%</Name>
+<Value>C:\Program Files (x86)\Common Files</Value>
+</Var>
+<Var>
+<Name>%SystemFolder%</Name>
+<Value>C:\windows\system32</Value>
+</Var>
+<Var>
+<Name>%WindowsFolder%</Name>
+<Value>C:\windows</Value>
+</Var>
+<Var>
+<Name>%SystemDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%TempFolder%</Name>
+<Value>C:\Users\Darku\AppData\Local\Temp</Value>
+</Var>
+<Var>
+<Name>%TempLaunchFolder%</Name>
+<Value>C:\Users\Darku\AppData\Local\Temp\_ir_sf_temp_0</Value>
+</Var>
+<Var>
+<Name>%RegOwner%</Name>
+<Value>Darku</Value>
+</Var>
+<Var>
+<Name>%RegOrganization%</Name>
+<Value>Hewlett-Packard Company</Value>
+</Var>
+<Var>
+<Name>%AppDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%DAOPath%</Name>
+<Value>C:\Program Files (x86)\Common Files\Microsoft Shared\DAO</Value>
+</Var>
+<Var>
+<Name>%LaunchUserName%</Name>
+<Value>Darku</Value>
+</Var>
+<Var>
+<Name>%LaunchUserDomain%</Name>
+<Value>DarkusPC</Value>
+</Var>
+<Var>
+<Name>%LaunchUserApplicationDataFolder%</Name>
+<Value>C:\Users\Darku\AppData\Roaming</Value>
+</Var>
+<Var>
+<Name>%LaunchUserDesktopFolder%</Name>
+<Value>C:\Users\Darku\Desktop</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyDocumentsFolder%</Name>
+<Value>C:\Users\Darku\Documents</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartProgramsFolder%</Name>
+<Value>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartFolder%</Name>
+<Value>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartupFolder%</Name>
+<Value>C:\Users\Darku\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyMusicFolder%</Name>
+<Value>C:\Users\Darku\Music</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyPicturesFolder%</Name>
+<Value>C:\Users\Darku\Pictures</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyVideosFolder%</Name>
+<Value>C:\Users\Darku\Videos</Value>
+</Var>
+<Var>
+<Name>%SourceFilename%</Name>
+<Value>C:\Users\Darku\Desktop\Cube World - July 23, 2013\Cube World - July 23, 2013 (2-click run).exe</Value>
+</Var>
+<Var>
+<Name>%SourceFolder%</Name>
+<Value>C:\Users\Darku\Desktop\Cube World - July 23, 2013</Value>
+</Var>
+<Var>
+<Name>%SourceDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%SpaceAvailable%</Name>
+<Value>370.83 GB</Value>
+</Var>
+<Var>
+<Name>%SpaceRequired%</Name>
+<Value>70.4 MB</Value>
+</Var>
+</SessionVars>
+</SUF70UninstallData>
